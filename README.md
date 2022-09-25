@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou @Adonias1994
+- 👋 Oi, eu sou Adonias Pessoa
 - 👀 Estou interessado em desenvolver minhas habilidades em programação e compartilhar com vocês o meu desenvolvimento e projetos.
 - 🌱 Estou estudando programação com o curso tecnológico de Análise e Desenvolvimento de Sistemas no Centro Universitário Estácio do Recife, mas também estudo em plataformas como YouTube, Cursos Livres da Estácio e Udemy com foco principalmente no primeiro momento na linguagem de programação Python.
 - 💞️ Estou procurando colaborar em desenvolvimento de softwares, mas também gosto de segurança da informação.
