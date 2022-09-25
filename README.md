@@ -1,0 +1,7 @@
+- 👋 Oi, eu sou @Adonias1994
+- 👀 Estou interessado em desenvolver minhas habilidades em programação e compartilhar com vocês o meu desenvolvimento e projetos.
+- 🌱 Estou aprendendo inicialmente Python na Universidade do Recife Estácio de Sá, mas também estudo em plataformas como YouTube, Cursos Livres da Estácio e Udemy.
+- 💞️ Estou procurando colaborar em desenvolvimento de softwares, mas também gosto de segurança da informação.
+- 📫 Meu e-mail: adoniaspessoadasilva@hotmail.com
+- 📫 Meu Blog: https://www.umpoucodecomputacao.blogspot.com
+- 📫 Meu Instagram: https://instagram.com/adonias_pessoa_
