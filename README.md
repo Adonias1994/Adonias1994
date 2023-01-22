@@ -3,5 +3,5 @@
 - 🌱 Estou estudando programação com o curso tecnológico de Análise e Desenvolvimento de Sistemas no Centro Universitário Estácio do Recife, mas também estudo em plataformas como YouTube, Cursos Livres da Estácio e Udemy com foco principalmente no primeiro momento na linguagem de programação Python.
 - 🤝 Eventualmente vou compartilhar alguns códigos e quem sabe projetos de softwares por aqui.
 - 📫 Meu e-mail: adoniaspessoadasilva@hotmail.com
-- 📫 Meu Blog: https://umpoucodecomputacao.blogspot.com
-- 📫 Meu Instagram: https://instagram.com/adonias_pessoa_
+- 📫 Meu Instagram: https://instagram.com/adoniaspessoa_
+- 📫 Minha loja virtual:https://www.magazinevoce.com.br/magazinelojavirtualtop01
