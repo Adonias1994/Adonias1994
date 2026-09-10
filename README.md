@@ -1,2 +1,6 @@
-- 👋 Oi, eu sou Adonias Pessoa
-- 👀 Sou graduando em Análise e Desenvolvimento de Sistemas pela Universidade Estácio do Recife e estou focando em desenvolver minhas habilidades em programação com a Linguagens Python 3
+Bem vindo ao meu laboratório de estudos teóricos e práticos!
+Front-End: HTML5, CSS3, JavaScript, Python,
+Back-End: Python, C++,
+Cybersecurity: Python, 
+Git/GitHub
+Em breve vou incluir -> TypeScript e React
