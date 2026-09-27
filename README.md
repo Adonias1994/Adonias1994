@@ -1,15 +1,15 @@
-### 👨‍💻 Aspiring Full Stack Developer | Java, Spring Boot & Angular | Cyber Security 
+### 👨‍💻 Desenvolvedor Full Stack em Formação | Java, Spring Boot & Angular | Cyber Security
 
-I hold a degree in Systems Analysis and Development and am currently pursuing a Bachelor's in Computer Science. While I am actively seeking my first professional role as a developer, I spend my days building practical projects to master Full Stack Development. I love combining coding with a "Security by Design" mindset, bringing my knowledge of Cyber Security (Blue Team) and Python into my daily development routine.
+Sou graduado em Análise e Desenvolvimento de Sistemas e atualmente estou cursando o Bacharelado em Ciência da Computação. Enquanto busco ativamente minha primeira oportunidade profissional como desenvolvedor, dedico meus dias à construção de projetos práticos para dominar o desenvolvimento Full Stack. Gosto de alinhar código com a mentalidade "Security by Design", trazendo meus em Cyber Security (Blue Team) e Python para a minha rotina diária de desenvolvimento.
 
-**🚀 Current Focus:** 
-Studying and building projects to master robust RESTful APIs with Java and Spring Boot, while creating dynamic front-end applications using Angular and TypeScript.
+**🚀 Foco Atual:** 
+Estudando e desenvolvendo projetos para dominar APIs RESTful robustas com Java e Spring Boot, além de criar aplicações front-end dinâmicas com Angular e TypeScript.
 
-### 🛠️ What I am studying and working with
-*   **Backend & Architecture:** Java, Spring Boot, REST APIs, JSON, Python
+### 🛠️ O que estou estudando e praticando
+*   **Backend & Arquitetura:** Java, Spring Boot, APIs REST, JSON, Python
 *   **Frontend:** Angular, TypeScript, JavaScript, HTML5, CSS3 (SASS/SCSS)
-*   **Data & Databases:** SQL, Relational Database Modeling, Oracle
-*   **Security & Tools:** Git/GitHub, Cyber Security (Blue Team / SOC concepts), Secure Coding Practices
+*   **Dados & Banco de Dados:** SQL, Modelagem de Banco de Dados Relacional, Oracle
+*   **Segurança & Ferramentas:** Git/GitHub, Cyber Security (conceitos de Blue Team / SOC), Práticas de Código Seguro
 
 ---
-📫 **How to reach me:** www.linkedin.com/in/adoniaspessoa
+📫 **Como me encontrar:** https://www.linkedin.com/in/adoniaspessoa
